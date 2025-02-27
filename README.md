@@ -1,4 +1,4 @@
-# sunda-ptha18
+# Banda Aceh PTHA based on PTHA18
 code for tsunami simulation for next paper
 
  ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)**sampling_strategy.ipynb** use to perform variance calculation and find the optimal sampling, based on  '**plot_optimal_sampling.R**' code from https://github.com/GeoscienceAustralia/ptha/tree/master/misc/monte_carlo_paper_2021/optimal_sampling
